@@ -5,12 +5,12 @@ The **YouTube Bookmarker extension** is a tool that lets users save and manage s
 ### **Key Features**
 1. **Bookmark Timestamps:**
    - Save exact timestamps in videos with a single click.
-   - Store the video title, description, and a thumbnail of the bookmarked frame.
+   - Store the video title and a thumbnail of the bookmarked frame.
 
 2. **User-Friendly Interface:**
    - Displays a list of saved bookmarks, each showing:
      - A circular thumbnail of the bookmarked frame.
-     - The video title, timestamp, and a snippet of the description.
+     - The video title and timestamp.
      - A delete button to remove individual bookmarks.
 
 3. **Easy Navigation:**
